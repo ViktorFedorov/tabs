@@ -1,0 +1,11 @@
+.tab {
+  border: 2px solid lightsteelblue;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.active {
+  background: lightsteelblue;
+  color: white;
+}
